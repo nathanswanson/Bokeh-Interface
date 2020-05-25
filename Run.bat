@@ -1,0 +1,1 @@
+cd .. & bokeh serve --show network
